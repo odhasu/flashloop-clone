@@ -1,0 +1,23 @@
+{
+  "name": "Flashloop",
+  "short_name": "Flashloop",
+  "description": "Create AI videos, images, characters, and voices.",
+  "start_url": "/tezu-website/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#ff5a1f",
+  "icons": [
+    {
+      "src": "/tezu-website/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tezu-website/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

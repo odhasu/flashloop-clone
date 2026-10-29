@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /tezu-website/auth/
+Disallow: /tezu-website/characters/
+Disallow: /tezu-website/creations/
+Disallow: /tezu-website/settings/
+Disallow: /tezu-website/rewards/
+Disallow: /tezu-website/intro-preview/
+Disallow: /tezu-website/thank-you/
+
+Sitemap: https://odhasu.github.io/tezu-website/sitemap.xml
