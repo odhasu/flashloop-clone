@@ -1,4 +1,4 @@
-:HL["/flashloop-clone/_next/static/chunks/08tk6q_iwc968.css","style"]
+:HL["/flashloop-clone/_next/static/chunks/348qtyjq33yei.css","style"]
 :HL["/flashloop-clone/_next/static/media/tiktok_sans-s.p.0pa36vrkdpcps.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/flashloop-clone/_next/static/chunks/317wyfj2iv_m_.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4180,"slots":{"children":{"name":"get-app","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Izs0cMk2Uty4K52vjRQLb"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4180,"slots":{"children":{"name":"get-app","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"FlWMVAy9zLw4Ya8dKObVm"}
