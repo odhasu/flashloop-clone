@@ -3,4 +3,4 @@
 :HL["/flashloop-clone/cyan/_next/static/chunks/2timwua9te8d9.css","style"]
 :HL["/flashloop-clone/cyan/_next/static/media/tiktok_sans-s.p.0pa36vrkdpcps.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/flashloop-clone/cyan/_next/static/chunks/1prlnwx54kwv9.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4180,"slots":{"children":{"name":"auth","param":null,"prefetchHints":4192,"slots":{"children":{"name":"email","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"a0Q0kmCnkwkT0DOgIIWOi"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4180,"slots":{"children":{"name":"auth","param":null,"prefetchHints":4192,"slots":{"children":{"name":"email","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"xpKoOWhmIqDVT-CVEN8Ed"}
