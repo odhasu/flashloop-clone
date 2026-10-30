@@ -21,4 +21,4 @@
 :HL["/flashloop-clone/sites/flashloop/content/72b4b3c17c8740.svg","image"]
 :HL["/flashloop-clone/sites/flashloop/content/249a1505256b93.svg","image"]
 :HL["/flashloop-clone/sites/flashloop/content/d9946004ba6f4d.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4180,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"c","key":"make-money-on-youtube-shorts-with-ai","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"CZpW-jjR6OvbkS2Xpa67a"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4180,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"c","key":"make-money-on-youtube-shorts-with-ai","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"l2ArVmv9hyBPJOOthBfI8"}
