@@ -5,4 +5,4 @@
 :HL["/flashloop-clone/blue/_next/static/chunks/14_09_x8omd9o.css","style"]
 :HL["/flashloop-clone/blue/_next/static/chunks/1e3n8pni9ws5c.css","style"]
 :HL["/flashloop-clone/sites/flashloop/content/56ed9ca466039d.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4180,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"c","key":"category/tutorials","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"TlwbJIfnTLgGKUhpUNpFD"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4180,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"c","key":"category/tutorials","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"LPiiziQZT2ODq8qjLMLEd"}
