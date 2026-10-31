@@ -3,4 +3,4 @@
 :HL["/flashloop-clone/_next/static/chunks/2ch082ledg85j.css","style"]
 :HL["/flashloop-clone/_next/static/media/tiktok_sans-s.p.0pa36vrkdpcps.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/flashloop-clone/_next/static/chunks/258x-dizp4q8g.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4180,"slots":{"children":{"name":"effects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sports-anime-cv","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"fD280WIUFR17yA8W6XJKU"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4180,"slots":{"children":{"name":"effects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sports-anime-cv","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"9XmeN39-BTM0up7acKqO-"}
